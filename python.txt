@@ -1,0 +1,298 @@
+1)Is Python case sensitive when dealing with identifiers?	(a)
+a) no
+b) yes
+c) machine dependent
+d) none of the mentioned
+
+2)Which type of Programming does Python support?	(d)
+a) object-oriented programming
+b) structured programming
+c) functional programming
+d) all of the mentioned
+
+3)Which of the following is the correct extension of the Python file?	(c)
+a) .python
+b) .pl
+c) .py
+d) .p
+
+4) All keywords in Python are in _________	(d)
+a) Capitalized
+b) lower case
+c) UPPER CASE
+d) None of the mentioned
+
+5) Which of the following is used to define a block of code in Python language?	(a)
+a) Indentation
+b) Key
+c) Brackets
+d) All of the mentioned
+
+6)Which of the following character is used to give single-line comments in Python?	(b)
+a) //
+b) #
+c) !
+d) /*
+
+7) Which of the following functions can help us to find the version of python that we are currently working on?		(a)
+a) sys.version(1)
+b) sys.version(0)
+c) sys.version()
+d) sys.version
+
+8)What is the order of precedence in python?				(d)
+a) Exponential, Parentheses, Multiplication, Division, Addition, Subtraction
+b) Exponential, Parentheses, Division, Multiplication, Addition, Subtraction
+c) Parentheses, Exponential, Multiplication, Division, Subtraction, Addition
+d) Parentheses, Exponential, Multiplication, Division, Addition, Subtraction
+
+9)Which of the following is true for variable names in Python?		(b)
+a) underscore and ampersand are the only two special characters allowed
+b) unlimited length
+c) all private members must have leading and trailing underscores
+d) none of the mentioned
+
+10)Which of the following is the truncation division operator in Python?	(b)
+a) |
+b) //
+c) /
+d) %
+
+11) Which of the following is the use of id() function in python?	(b)
+a) Every object doesn’t have a unique id
+b) Id returns the identity of the object
+c) All of the mentioned
+d) None of the mentioned
+
+12)Which of these is the definition for packages in Python?		(b)
+a) A set of main modules
+b) A folder of python modules
+c) A number of files containing Python definitions and statements
+d) A set of programs making use of Python modules
+
+13)Which module in the python standard library parses options received from the command line?		(b)
+a) getarg
+b) getopt
+c) main
+d) os
+
+14)What arithmetic operators cannot be used with strings in Python?	(b)
+a) *
+b) –
+c) +
+d) All of the mentioned
+
+15)To add a new element to a list we use which Python command?		(c)
+a) list1.addEnd(5)
+b) list1.addLast(5)
+c) list1.append(5)
+d) list1.add(5)
+
+16)What is the maximum possible length of an identifier in Python?	(d)
+a) 79 characters
+b) 31 characters
+c) 63 characters
+d) none of the mentioned
+
+17)Which of the following operators cannot be used on sets?	(b)
+a)==
+b)+
+c)-
+d)^
+
+18)Which of the following methods is used to add elements to a list at a particular index?	(a)
+a)insert()
+b)append()
+c)extend()
+c)none of these
+
+19)Which of the following statements is correct?	(b)
+a)tuples are enclosed in[]
+b)tuple are more efficient than list
+c)tuple are mutable
+d)none
+
+20) What is output of print(math.pow(3, 2))?		(a)
+a) 9.0
+b) None
+c) 9
+d) None of the mentioned
+
+21)If return statement is not used inside the function, the function will return:	(a)
+a)none object
+b)error
+c)an orbitory integer
+d)function must return something
+
+22)What will be the output of the following Python code snippet?	(a)
+print([z.lower() for z in "HELLO"])
+a)['h','e','l','l','o']
+b)hello
+c)Hello
+d)hELLO
+
+23)What data type is the object below ? L = [1, 23, ‘hello’, 1]		(A)
+A)List
+B)Dictionary
+C)Tuple
+D)Array
+
+24)Which of the following function convert a string to a float in python?	(c)
+A)int(x [,base])
+B)long(x [,base] )
+c)float(x)
+D)str(x)
+
+25)Given a function that does not return any value, what value is shown when executed at the shell?	(D)
+A)int
+B)bool
+c)void
+D)None
+
+26)Which module in Python supports regular expressions?
+A)re
+B)regex
+C)pyregex
+D)None of the above
+
+27)Given a string s = “Welcome”, which of the following code is incorrect?	(c)
+A)print s[0]
+B)print s.lower()
+C)s[1] = ‘r’
+D)print s.strip()
+
+28)
+________ is a simple but incomplete version of a function.	(A)
+A)Stub
+B)Function
+C)A function developed using bottom-up approach
+D)A function developed using top-down approach
+
+29)To start Python from the command prompt, use the command ______	(c)
+A)execute python
+B)go python
+c)python
+D)run python
+
+30)Which of the following is correct about Python?	(c)
+A)It supports automatic garbage collection.
+B)It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java
+C)Both of the above
+D)None of the above
+
+31)Which function overloads the >> operator?	(D)
+A)more()
+B)gt()
+C)ge()
+D)None
+	
+32)Which operator is overloaded by the or() function?	(B)
+A)||
+B)|
+C)//
+D)/
+
+33)What will be the output of the following code :	(B)
+print type(type(int))
+A)type 'int'
+B)type 'type'
+C)Error
+D)0
+
+34)time.time() returns ________		(D)
+A)the current time
+B)the current time in milliseconds
+C)the current time in milliseconds since midnight
+D)the current time in milliseconds since midnight, January 1, 1970 GMT (the Unix time)
+
+35) Who developed Python Programming Language?	(c)
+a) Wick van Rossum
+b) Rasmus Lerdorf
+c) Guido van Rossum
+d) Niene Stom
+
+36)Is Python code compiled or interpreted?	(b)
+a) Python code is both compiled and interpreted
+b) Python code is neither compiled nor interpreted
+c) Python code is only compiled
+d) Python code is only interpreted
+
+37) What will be the value of the following Python expression?	(a)
+4 + 3 % 5
+a) 7
+b) 2
+c) 4
+d) 1
+
+38)Which of the following is used to define a block of code in Python language?		(a)
+a) Indentation
+b) Key
+c) Brackets
+d) All of the mentioned
+
+39) Python supports the creation of anonymous functions at runtime, using a construct called __________		(c)
+a) pi
+b) anonymous
+c) lambda
+d) none of the mentioned
+
+40)What does pip stand for python?		(c)
+a) unlimited length
+b) all private members must have leading and trailing underscores
+c) Preferred Installer Program
+d) none of the mentioned
+
+41)python is a platform independent language (a)
+a)true
+b)false
+
+42)What is a correct syntax to output "Hello World" in Python?	(b)
+a)echo("Hello World")
+b)print("Hello World")
+c)p("Hello World")
+
+
+43)Which one is NOT a legal variable name?	(a)
+a)my-var
+b)Myvar
+c)my_var
+d)_myvar
+
+44)What is the correct syntax to output the type of a variable or object in Python?	(a)
+a)print(type(x))
+b)print(typeof x)
+c)print(typeOf(x))
+d)print(typeof(x))
+
+45)What is the correct way to create a function in Python?	(a)
+a)def myfunction()
+b)create myfuction()
+c)function myfunction()
+
+46)In Python, 'Hello', is the same as "Hello"	(a)
+a)true
+b)false
+
+47)Which method can be used to remove any whitespace from both the beginning and the end of a string?	(c)
+a)ptrim()
+b)trim()
+c)strip()
+d)len()
+
+48)Which method can be used to return a string in upper case letters?	(c)
+a)toUpperCase()
+b)uppercase()
+c)upper()
+d)upperCase()
+
+49)Which method can be used to replace parts of a string?	(d)
+a)repl()
+b)replaceString()
+c)switch()
+d)replace()
+
+50)Which collection is ordered, changeable, and allows duplicate members?	(a)
+a)list
+b)set
+c)tuple
+d)dictionary
